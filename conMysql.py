@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-     
-# mysqldb    
-# adair
+# coding : utf-8
+# author : adair
 
 import time, MySQLdb    
    
